@@ -1,13 +1,12 @@
 body {
-     background-color: yellow;
-     font-family: Arial sans-serif;
-     text-align: center;
-     padding: 20px;
-}
+        font-family: Arial, sans-serif;
+        background: url('michi.jpg') no-repeat center center/cover;
+        text-align: center;
+    }
 .container {
     margin-top: 50px;
 }
 .tittle {
-    color: black;
+    color: rgb(45, 223, 217);
     font-weight: bold;
 }
